@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/AquilaTechnology01/branding/main/logos/logo-color.png](https://media.licdn.com/dms/image/v2/D5603AQF3ar7pRLQFHA/profile-displayphoto-scale_400_400/B56Z86cJ2CGoAg-/0/1783391888297?e=1785369600&v=beta&t=LGPVMFt6uFjn7YfkxJnCmX8NMu2Y3pqcGNVb67eGhuk)" width="220" alt="Aquila Technology Logo">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF3ar7pRLQFHA/profile-displayphoto-scale_400_400/B56Z86cJ2CGoAg-/0/1783391888297?e=1785369600&v=beta&t=LGPVMFt6uFjn7YfkxJnCmX8NMu2Y3pqcGNVb67eGhuk" width="220" alt="Aquila Technology Logo">
 </p>
 
 <h1 align="center">
