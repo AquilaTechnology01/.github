@@ -136,7 +136,7 @@ Ser referência nacional em consultoria de Tecnologia da Informação, Seguranç
 
 ---
 
-# Estatísticas
+<!--# Estatísticas
 
 <p align="center">
 
@@ -145,7 +145,7 @@ Ser referência nacional em consultoria de Tecnologia da Informação, Seguranç
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquilaTechnology01&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
+-->
 ---
 
 # Entre em contato
@@ -156,11 +156,11 @@ https://aquilatechnology.com.br
 
 📧 Email
 
-contato@aquilatechnology.com.br
+AquilaTechnology@proton.me
 
 💼 LinkedIn
 
-Em breve
+linkedin.com/in/aquila-technology-424685420
 
 ---
 
